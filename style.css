@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/colorful-geometric-memphis-style-background_53876-77777.jpg?w=2000");
+}
+
+#mario_image{
+    width: 100%;
+    height: 500px;
+}
+
+#instructions_tab{
+    float: right;
+    margin-bottom: 30px;
+    background-color: red;
+    border: blue;
+    border-style: groove;
+    color: white;
+}
+
+#first{
+    display: inline;
+}
+
+#app_name{
+    display: inline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+#play{
+    background-color: red;
+    border: blue;
+    border-style: groove;
+    color: white;  
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+#instruct{
+    display: inline-block;
+    width: 45%;
+}
+
+#game_console{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    margin-top: 15px;
+    padding: 5px;
+    width: 70%;
+}
